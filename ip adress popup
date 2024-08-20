@@ -1,0 +1,6 @@
+LOOP 1000
+DELAY 10
+GUI r
+STRING https://www.whatismyipadress.com
+ENTER
+ENDLOOP
